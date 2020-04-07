@@ -1,0 +1,17 @@
+{
+  "name": "programmeren_09_blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Brainilio",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2",
+    "sha256": "^0.2.0",
+    "underscore": "^1.9.2"
+  }
+}
